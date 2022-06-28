@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4x0WzMjmjE19cX0N14b2564+HawuHd23YJrD1gUYyTm/V1B0fHCUgLuXZGvr4F5WBryIjz4zYHOYNXUTt0pyng==",
+  "success": true,
+  "projectFilePath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/NET Development 365/BookStoreApi/BookStoreApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevincastro/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kevincastro/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kevincastro/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kevincastro/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kevincastro/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kevincastro/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
